@@ -1,0 +1,6 @@
+TIMER - JS
+
+This is a simple Javascript script ;). 
+This is a modified example with "JS: The definitive gudie" books.
+
+Author: grz
